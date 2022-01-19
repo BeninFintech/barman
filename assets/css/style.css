@@ -111,7 +111,7 @@ h1, h2, h3, h4, h5, h6 {
   text-decoration: none;
 }
 #header .logo h1 a i{
-  color: #fe5a48;
+  color: #FAF4D3;
 }
 #header .logo img {
   padding: 0;
@@ -122,10 +122,10 @@ h1, h2, h3, h4, h5, h6 {
   #header {
     box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
     top: 0;
-    background: #ad2831;
+    background: #D1AC00;
   }
   #header.header-scrolled, #header .header-container {
-    background: #ad2831;
+    background: #D1AC00;
   }
   #header .logo {
     padding-left: 0;
@@ -338,7 +338,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 90vh;
-  background: url("../img/hero-bg.jpg") center center;
+  background: url("../img/dj_bg.jpg") center center;
   background-size: cover;
   position: relative;
 }
@@ -1264,8 +1264,8 @@ section {
   font-size: 13px;
   color: #444444;
 }
-#footer .social-links a {
-  font-size: 18px;
+#about .social-links a {
+  font-size: 36px;
   display: inline-block;
   background: #000000;
   color: #fff;
@@ -1274,8 +1274,8 @@ section {
   margin-right: 4px;
   border-radius: 50%;
   text-align: center;
-  width: 36px;
-  height: 36px;
+  width: 60px;
+  height: 60px;
   transition: 0.3s;
 }
 #footer .social-links a:hover {

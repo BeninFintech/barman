@@ -5,6 +5,13 @@
 * License: https://bootstrapmade.com/license/
 */
 
+
+/* .snapchat {
+  background: #f7f400;
+}
+.snapchat i {
+  color: #000 !important;
+} */
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -1264,7 +1271,7 @@ section {
   font-size: 13px;
   color: #444444;
 }
-#about .social-links a {
+#hero .social-links a {
   font-size: 36px;
   display: inline-block;
   background: #000000;

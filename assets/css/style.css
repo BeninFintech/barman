@@ -1161,9 +1161,9 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  color: #444444;
+  color: #909090;
   font-size: 14px;
-  background: #362323;
+  background: #181818;
 }
 #footer .footer-top {
   padding: 60px 0 30px 0;
@@ -1270,7 +1270,7 @@ section {
 #footer .credits {
   padding-top: 5px;
   font-size: 13px;
-  color: #444444;
+  color: #909090;
 }
 #hero .social-links a {
   font-size: 36px;
